@@ -2,4 +2,4 @@ Hersae:/tmp/h$ ./0-hello_world
 Hello, Word
 Hersae:/tmp/h$ ./0-hello_world | cat -e
 Hello, World$
-Hrsae:/tmp/h$
+Hersae:/tmp/h$
